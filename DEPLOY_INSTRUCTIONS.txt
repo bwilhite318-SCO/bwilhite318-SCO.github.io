@@ -1,0 +1,45 @@
+SCO WEBSITE — COPY AND PUBLISH INSTRUCTIONS
+
+1. In GitHub Desktop, confirm the current repository is:
+   bwilhite318-SCO.github.io
+
+2. Click "Show in Explorer."
+
+3. Copy EVERYTHING inside this downloaded sco-static-site folder into the empty
+   bwilhite318-SCO.github.io repository folder.
+   Do not copy the outer folder itself.
+
+4. Return to GitHub Desktop. It should show these new files:
+   index.html
+   styles.css
+   script.js
+   privacy.html
+   terms.html
+   refund-policy.html
+   contact.html
+   404.html
+   README.md
+   assets/sco-logo.png
+   assets/favicon.png
+
+5. Commit summary:
+   Add SCO public website
+
+6. Click "Commit to main," then click "Push origin."
+
+7. On GitHub:
+   Repository > Settings > Pages
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+   Click Save.
+
+8. After GitHub finishes publishing, the website should be available at:
+   https://bwilhite318-SCO.github.io
+
+CUSTOM DOMAIN
+Do not point the main lsintegrations.com domain at GitHub Pages if it already hosts
+another website. A safer future address is:
+   sco.lsintegrations.com
+
+The custom domain should be configured only after the GitHub Pages version works.
